@@ -1,26 +1,121 @@
-<h1 align="center">Hi 👋, I'm Abdurragmaan</h1>
-<h3 align="center">Learn, Grow, Prosper</h3>
+🚀 Hello, I'm [Your Name/Handle]!
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=maanjaal&label=Profile%20views&color=0e75b6&style=flat" alt="maanjaal" /> </p>
+Aspiring Cyber Security Professional | Ethical Hacker | Digital Forensics Enthusiast
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=maanjaal" alt="maanjaal" /></a> </p>
+Welcome to my central hub for projects and portfolio work! I am a passionate and driven student focused on building practical, real-world skills in offensive and defensive security. This profile is where I document my journey, showcase my practical labs, and consolidate my projects.
 
-- A Python script that evaluates password strength using entropy and common patterns **Password Strength Checker**
+Primary Goals: Attract recruiters, connect with other cyber security students, and maintain a centralized portfolio.
 
-- Set up and document firewall rules on Linux (iptables) or Windows. **Basic Firewall Configuration**
+🎯 My Focus & Expertise
 
-- Script to parse system logs and detect suspicious activity. **Log Analysis Tool**
+My goal is to transition from academic study into a professional role where I can apply a comprehensive understanding of system vulnerabilities and threat mitigation strategies. I am actively seeking connections with industry professionals and fellow students.
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/www.linkedin.com/in/abdurragmaan-majal-2b9b0924a" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/abdurragmaan-majal-2b9b0924a" height="30" width="40" /></a>
-</p>
+Area of Interest
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> <a href="https://angular.io" target="_blank" rel="noreferrer"> <img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="angular" width="40" height="40"/> </a> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://www.blender.org/" target="_blank" rel="noreferrer"> <img src="https://download.blender.org/branding/community/blender_community_badge_white.svg" alt="blender" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://cloud.google.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactnative.dev/" target="_blank" rel="noreferrer"> <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40"/> </a> <a href="https://www.wxwidgets.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/b/bb/WxWidgets.svg" alt="wx_widgets" width="40" height="40"/> </a> </p>
+Description
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=maanjaal&show_icons=true&locale=en&layout=compact" alt="maanjaal" /></p>
+🛡️ Penetration Testing
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=maanjaal&show_icons=true&locale=en" alt="maanjaal" /></p>
+Simulating attacks to find and fix vulnerabilities in systems and applications.
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=maanjaal&" alt="maanjaal" /></p>
+🔍 Digital Forensics
+
+Investigating digital devices to recover, analyze, and preserve evidence.
+
+🧠 Threat Intelligence
+
+Analyzing external threats and adversaries to predict and prevent future attacks.
+
+🌐 Network Security
+
+Protecting network infrastructure, including real-time traffic analysis and reconnaissance.
+
+☁️ Cloud Security
+
+Securing data, applications, and infrastructure hosted in public cloud environments.
+
+🔬 Reverse Engineering
+
+Analyzing software binaries to understand functionality and uncover hidden vulnerabilities.
+
+🛠️ Cyber Security Toolkit
+
+I am proficient and actively developing my skills with the following essential tools and technologies:
+
+Operating Systems & Environments
+
+Linux: Ubuntu, Kali Linux (My primary security testing environment)
+
+Programming & Scripting
+
+Python (My preferred language for automating security tasks, developing custom tools, and data processing)
+
+Key Security Tools
+
+Tool Name
+
+Core Functionality Highlight
+
+Nmap
+
+Network reconnaissance for open ports and services, critical for finding entry points.
+
+Wireshark
+
+Deep packet analysis; allows users to see raw data, decode protocols, and examine traffic flow.
+
+Metasploit
+
+Exploitation framework providing a vast database of modules to simulate and verify real-world attacks.
+
+Aircrack-ng
+
+Captures packets and data from Wi-Fi networks for key cracking using dictionary attacks against handshakes.
+
+John the Ripper
+
+CPU-based tool primarily used to test password strength against encrypted hashes (cracking).
+
+Hashcat
+
+GPU-accelerated hash cracking, offering significantly faster cracking speeds against various hash algorithms.
+
+📂 Featured Projects & Labs
+
+These projects demonstrate my practical, hands-on experience in defensive and offensive security:
+
+Custom Network Reconnaissance Script: Developed a powerful Python-based script utilizing Nmap capabilities to automate the discovery of hosts, open ports, and operating system information on a network.
+
+Brute-Forcing & Password Cracking Lab: Hands-on experience with John the Ripper and Hashcat to understand hash algorithms and optimize dictionary/brute-force attacks to test password policy efficacy.
+
+Real-Time Network Traffic Monitor: Utilized Wireshark for deep-dive network analysis, coupled with custom filters to isolate suspicious activity and decode protocols for deep security analysis.
+
+Exploitation Simulation Lab: Employed Metasploit to conduct simulated, controlled attacks against vulnerable targets, focusing on understanding the kill chain and how to effectively manage and patch identified vulnerabilities.
+
+[Add Your Next Project Idea Here]
+
+💡 Interesting Cyber Security Fact
+
+I'm fascinated by the concept of steganography—the art of concealing a message, file, image, or video within another message, file, image, or video. It's a subtle form of communication that completely bypasses most traditional security monitoring, making it a critical aspect of forensic analysis.
+
+📧 Let's Connect!
+
+I am always open to collaborating on projects, discussing security challenges, and connecting with industry professionals and fellow students.
+
+Platform
+
+Link
+
+LinkedIn
+
+[Insert Your LinkedIn Profile Link Here]
+
+Portfolio/Blog
+
+[Insert Your Portfolio/Blog Link Here]
+
+TryHackMe/HackTheBox
+
+[Insert Your Hacking Platform Profile Link Here]
+
+Feel free to explore my repositories!
