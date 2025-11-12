@@ -1,121 +1,130 @@
-🚀 Hello, I'm [Your Name/Handle]!
+<!-- Cyber Command Center README -->
 
-Aspiring Cyber Security Professional | Ethical Hacker | Digital Forensics Enthusiast
+<h1 align="center">
+  🕵️‍♂️ <strong>Abdurragmaan: Welcome to the Cyber Command Center!</strong> 🚀
+</h1>
 
-Welcome to my central hub for projects and portfolio work! I am a passionate and driven student focused on building practical, real-world skills in offensive and defensive security. This profile is where I document my journey, showcase my practical labs, and consolidate my projects.
+<h3 align="center">
+  ⚡ Future Exploit Developer | 🧩 Digital Sleuth | 🧙‍♂️ Ethical Hacker
+</h3>
 
-Primary Goals: Attract recruiters, connect with other cyber security students, and maintain a centralized portfolio.
+<h4 align="center">
+  <em>“Learn to break the rules (ethically!) so I can write better ones.” 🧠</em>
+</h4>
 
-🎯 My Focus & Expertise
+<p align="center">
+  <img src="https://source.unsplash.com/v-jFS1AsHXo/1200x400" alt="Cyber Banner" width="900" style="border-radius:10px; box-shadow:0 8px 30px rgba(2,6,23,0.6)"/>
+</p>
 
-My goal is to transition from academic study into a professional role where I can apply a comprehensive understanding of system vulnerabilities and threat mitigation strategies. I am actively seeking connections with industry professionals and fellow students.
+---
 
-Area of Interest
+---
 
-Description
+### 🧭 Mission Log: Who Am I?
 
-🛡️ Penetration Testing
+Welcome to my official Page **Mission Log and Technical HQ**!  
+I’m a **cybersecurity student** turning academic knowledge into **real-world digital weaponry** — both **offensive and defensive**.  
+Here, I document my **journey, experiments, and victories** in the world of ethical hacking.
+  
+🔹 Purpose: **Centralized portfolio** for projects, tools, and research  
 
-Simulating attacks to find and fix vulnerabilities in systems and applications.
+---
 
-🔍 Digital Forensics
+## 🎯 Mission Brief: Focus & Expertise
 
-Investigating digital devices to recover, analyze, and preserve evidence.
+| Area of Interest | The Vibe (Why I Love It) |
+| :--- | :--- |
+| **🛡️ Penetration Testing** | **The ultimate test:** Simulating real attacks to patch vulnerabilities *before* the bad actors find them. 💥 |
+| **🔍 Digital Forensics** | **Solving cold cases:** Recovering the ghost of data and piecing together digital crime scenes. 🔎 |
+| **🧠 Threat Intelligence** | **Predicting the future:** Analyzing adversary tactics to stay two steps ahead in the security chess game. ♟️ |
+| **🌐 Network Security** | **Guardians of the gate:** Locking down the infrastructure and analyzing network traffic in real-time. 🚦 |
+| **☁️ Cloud Security** | **Digital fortress:** Securing assets floating in the cloud. ☁️🔒 |
+| **🔬 Reverse Engineering** | **Deconstruction artist:** Taking software apart to uncover its hidden secrets. ⚙️ |
 
-🧠 Threat Intelligence
+---
 
-Analyzing external threats and adversaries to predict and prevent future attacks.
+## 💣 The Loot Box: Featured Projects & Labs
 
-🌐 Network Security
+🧰 Proof-of-concept projects showcasing my security skills:
 
-Protecting network infrastructure, including real-time traffic analysis and reconnaissance.
+- **Password Strength Checker:** Judges password entropy & enforces strong authentication.  
+- **Firewall Configurations:** Hardening the perimeter via Linux (`iptables`) & Windows rules.  
+- **Log Analysis Tool:** Parses massive log data for IOC patterns — *nothing escapes my watch*.  
+- **Custom Recon Script:** Nmap wrapper automating host discovery & port scans.  
+- **Exploit Simulation Lab:** Hands-on **Metasploit** environment for ethical exploit lifecycle mastery
+- **Encryption/Decryption** Tool Implement AES or RSA in Python for secure file transfer.
+- **Vulnerability Assessment** Report to	Perform a scan using tools like Nmap or OpenVAS and write a professional report.
+- **Secure Web Application** Build a simple app and implement security best practices (input validation, HTTPS, etc.).
 
-☁️ Cloud Security
+---
 
-Securing data, applications, and infrastructure hosted in public cloud environments.
+## ⚙️ My Digital Arsenal
 
-🔬 Reverse Engineering
+<p align="center">
+  <a href="https://www.python.org" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" title="Python" width="45"/></a>
+  <a href="https://www.linux.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" title="Linux" width="45"/></a>
+   <a href="https://aws.amazon.com" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" title="AWS" width="55"/>    </a>
+  <a href="https://docker.com" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" title="Docker" width="50"/></a>
+  <a href="https://www.w3.org/html/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" title="HTML5" width="45"/></a>
+  <a href="https://www.w3schools.com/css/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" title="CSS3" width="45"/></a>
+  <a href="https://nodejs.org" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" title="NodeJS" width="45"/></a>
+  <a href="https://reactnative.dev/" target="_blank"><img src="https://reactnative.dev/img/header_logo.svg" title="React Native" width="45"/></a>
+  <a href="https://cloud.google.com" target="_blank"><img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" title="Google Cloud" width="45"/></a>
+  <a href="https://www.java.com" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" title="Java" width="45"/></a>
+</p>
 
-Analyzing software binaries to understand functionality and uncover hidden vulnerabilities.
+---
 
-🛠️ Cyber Security Toolkit
+## 🧩 Hidden Passion: Steganography
 
-I am proficient and actively developing my skills with the following essential tools and technologies:
+I’m captivated by **digital invisibility** —  
+the art of concealing information inside ordinary files.  
+Steganography is like **cyber magic**: invisible messages hiding in plain sight.  
+Perfect for **covert ops and forensic puzzles**. 🕵️‍♂️💾
 
-Operating Systems & Environments
+---
 
-Linux: Ubuntu, Kali Linux (My primary security testing environment)
+## 🤝 Connect & Collaborate
 
-Programming & Scripting
+<p align="center">
+  <a href="https://linkedin.com/in/abdurragmaan-majal-2b9b0924a" target="_blank">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" width="40" />
+  </a>
+  <a href="https://tryhackme.com/p/maanjaal" target="_blank">
+    <img src="https://img.shields.io/badge/TryHackMe-%23D42029.svg?&style=for-the-badge&logo=tryhackme&logoColor=white" alt="TryHackMe"/>
+  </a>
+  <a href="https://github.com/maanjaal" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-%23181717.svg?&style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+  </a>
+</p>
 
-Python (My preferred language for automating security tasks, developing custom tools, and data processing)
+---
 
-Key Security Tools
+## 📊 Operations Dashboard
 
-Tool Name
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=maanjaal&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" height="165"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=maanjaal&theme=tokyonight&hide_border=true" alt="GitHub Streak" height="165"/>
+</p>
 
-Core Functionality Highlight
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=maanjaal&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" height="165"/>
+</p>
 
-Nmap
+---
 
-Network reconnaissance for open ports and services, critical for finding entry points.
+<p align="center">
+  <img src="https://source.unsplash.com/XG5q_aosoPo/1000x400" alt="Cyber hacker collage" width="900" style="border-radius:10px; box-shadow:0 8px 30px rgba(2,6,23,0.6)"/>
+</p>
 
-Wireshark
+---
 
-Deep packet analysis; allows users to see raw data, decode protocols, and examine traffic flow.
+### 💬 Final Thought
 
-Metasploit
+> “Hack the system — not to destroy, but to understand.  
+>  Knowledge is the most powerful exploit.”
 
-Exploitation framework providing a vast database of modules to simulate and verify real-world attacks.
+---
 
-Aircrack-ng
-
-Captures packets and data from Wi-Fi networks for key cracking using dictionary attacks against handshakes.
-
-John the Ripper
-
-CPU-based tool primarily used to test password strength against encrypted hashes (cracking).
-
-Hashcat
-
-GPU-accelerated hash cracking, offering significantly faster cracking speeds against various hash algorithms.
-
-📂 Featured Projects & Labs
-
-These projects demonstrate my practical, hands-on experience in defensive and offensive security:
-
-Custom Network Reconnaissance Script: Developed a powerful Python-based script utilizing Nmap capabilities to automate the discovery of hosts, open ports, and operating system information on a network.
-
-Brute-Forcing & Password Cracking Lab: Hands-on experience with John the Ripper and Hashcat to understand hash algorithms and optimize dictionary/brute-force attacks to test password policy efficacy.
-
-Real-Time Network Traffic Monitor: Utilized Wireshark for deep-dive network analysis, coupled with custom filters to isolate suspicious activity and decode protocols for deep security analysis.
-
-Exploitation Simulation Lab: Employed Metasploit to conduct simulated, controlled attacks against vulnerable targets, focusing on understanding the kill chain and how to effectively manage and patch identified vulnerabilities.
-
-[Add Your Next Project Idea Here]
-
-💡 Interesting Cyber Security Fact
-
-I'm fascinated by the concept of steganography—the art of concealing a message, file, image, or video within another message, file, image, or video. It's a subtle form of communication that completely bypasses most traditional security monitoring, making it a critical aspect of forensic analysis.
-
-📧 Let's Connect!
-
-I am always open to collaborating on projects, discussing security challenges, and connecting with industry professionals and fellow students.
-
-Platform
-
-Link
-
-LinkedIn
-
-[Insert Your LinkedIn Profile Link Here]
-
-Portfolio/Blog
-
-[Insert Your Portfolio/Blog Link Here]
-
-TryHackMe/HackTheBox
-
-[Insert Your Hacking Platform Profile Link Here]
-
-Feel free to explore my repositories!
+⭐ **If my projects spark your curiosity — don’t forget to follow and connect!**  
+☕ *Powered by caffeine, code, and curiosity.*
