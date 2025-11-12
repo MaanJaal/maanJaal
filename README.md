@@ -107,12 +107,16 @@ Perfect for **covert ops and forensic puzzles**. 🕵️‍♂️💾
   <img src="https://github-readme-streak-stats.herokuapp.com?user=maanjaal&theme=tokyonight&hide_border=true" alt="GitHub Streak" height="165"/>
 </p>
 
+
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=maanjaal&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" height="165"/>
-</p>
 
----
+ ## 🖼️ Programing Lanuages used
 
+ - Python
+ - Java
+  
+  ---
+  
 <p align="center">
   <img src="https://source.unsplash.com/XG5q_aosoPo/1000x400" alt="Cyber hacker collage" width="900" style="border-radius:10px; box-shadow:0 8px 30px rgba(2,6,23,0.6)"/>
 </p>
@@ -127,4 +131,4 @@ Perfect for **covert ops and forensic puzzles**. 🕵️‍♂️💾
 ---
 
 ⭐ **If my projects spark your curiosity — don’t forget to follow and connect!**  
-☕ *Powered by caffeine, code, and curiosity.*
+
