@@ -110,7 +110,7 @@ Perfect for **covert ops and forensic puzzles**. 🕵️‍♂️💾
 
 <p align="center">
 
- ## 🖼️ Programing Lanuages used
+ ## 🖼️ Programing Lanuages Used
 
  - Python
  - Java
