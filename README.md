@@ -1,7 +1,8 @@
 <!-- Cyber Command Center README -->
 
 <h1 align="center">
-  🕵️‍♂️ <strong>Abdurragmaan: Welcome to the Cyber Command Center!</strong> 🚀
+  🕵️‍♂️ <strong>Welcome to the Cyber Command Center!
+      My name is Abdurragmaan Majal</strong> 🚀
 </h1>
 
 <h3 align="center">
